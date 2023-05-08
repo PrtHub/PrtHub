@@ -24,8 +24,10 @@ I'm a front-end developer passionate about building interactive and user-friendl
 
 ## 🌍Connect with me
 
-- [Twitter](https://twitter.com/PritamGhosh010)
-- [LinkedIn](https://www.linkedin.com/in/pritam-ghosh-dev/)
+
+[![Twitter](https://img.icons8.com/fluency/48/000000/twitter.png)](https://twitter.com/PritamGhosh010)
+[![LinkedIn](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/pritam-ghosh-dev/)
+
 
 #
 
