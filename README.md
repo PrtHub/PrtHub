@@ -11,12 +11,12 @@ I'm a front-end developer passionate about building interactive and user-friendl
 ---
 
 ## 🧰Languages and 🧰🧰 Tools
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/react-native.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/css3.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/000000/tailwind_css.png" />
-<img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/git.png" />
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/react-native.png" />
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/html-5--v1.png" />
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/css3.png" />
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://img.icons8.com/fluency/48/000000/tailwind_css.png" />
+<img align="left" alt="Bash" width="50px" style="padding-right:10px;" src="https://img.icons8.com/color/48/000000/git.png" />
 
 <br/>
 
