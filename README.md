@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Pritam
+# Hi, there 👋 I'm Pritam
 
 - 🌱 I'm a front-end developer passionate about building interactive and user-friendly web applications.
 - 💼 Looking for job opportunities as a frontend developer
