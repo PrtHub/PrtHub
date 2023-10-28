@@ -2,7 +2,7 @@
 
 - 🌱 I'm a front-end developer passionate about building interactive and user-friendly web applications.
 - 💼 Looking for job opportunities as a frontend developer
-- 📫 How to reach me: pritamattwork@gmail.com
+- 📫 How to reach me: pritamfinds@gmail.com
 - 😄 Pronouns: He/him
 
 ---
