@@ -1,7 +1,7 @@
 # Hi, there 👋 I'm Pritam
 
-- 🌱 I'm a front-end developer passionate about building interactive and user-friendly web applications.
-- 💼 Looking for job opportunities as a frontend developer
+- 🌱 I'm a Full Stack Developer
+- 💼 Looking for job opportunities as a full stack and frontend developer 
 - 📫 How to reach me: pritamfinds@gmail.com
 - 😄 Pronouns: He/him
 
